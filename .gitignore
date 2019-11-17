@@ -1,0 +1,5 @@
+# output directory for the pictures
+output
+
+# misc
+.DS_Store
